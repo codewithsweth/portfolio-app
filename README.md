@@ -1,12 +1,3 @@
-[![GitHub - codewithsadee/smith-portfolio: Smith is a fully responsive ...](https://tse3.mm.bing.net/th/id/OIP.tIqDUlUZeL0x2c4wKePb-wHaEK?pid=Api)](https://github.com/codewithsadee/smith-portfolio)
-
-That's excellent! Your repository [https://github.com/codewithsweth/portfolio-app](https://github.com/codewithsweth/portfolio-app) is now live and ready to share. To make it more professional and informative, let's add a polished `README.md` that clearly outlines your project.
-
----
-
-## 📝 Suggested `README.md` for Your Repository
-
-```markdown
 # 🚀 DevPort – Multi-User Portfolio Platform
 
 A fullstack portfolio builder where developers can register, create profiles, and showcase projects. Built with **Next.js (App Router)** and **FastAPI**, styled using **Tailwind CSS**, and deployed via **Vercel** and **Render**.
@@ -35,9 +26,6 @@ A fullstack portfolio builder where developers can register, create profiles, an
 ---
 
 ## 📁 Project Structure
-
-```
-
 portfolio-app/
 ├── frontend/   # Next.js App Router
 │   ├── app/
@@ -52,8 +40,6 @@ portfolio-app/
 │   │   └── schemas/
 │   ├── venv/
 │   └── requirements.txt
-
-````
 
 ---
 
@@ -94,12 +80,3 @@ Coming soon...
 ## 📄 License
 
 MIT
-
-```
-
----
-
-Would you like assistance in adding this `README.md` to your repository or further customizing it to reflect additional features or branding?
-::contentReference[oaicite:1]{index=1}
- 
-```
